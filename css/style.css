@@ -53,6 +53,11 @@ code {
     color: #fff;
 }
 
+.hidden {
+    visibility: hidden;
+    height: 0;
+}
+
 /* NAVBAR Styling */
 .navbar {
     background-color: var(--primary-color);
